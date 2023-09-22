@@ -1,0 +1,1123 @@
+.diseado-por-uncoder {
+  position: absolute;
+  top: 578px;
+  left: 545px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+}
+.mapa-icon {
+  position: absolute;
+  top: 116px;
+  left: 4.13px;
+  border-radius: 7px;
+  width: 310.05px;
+  height: 300px;
+  object-fit: cover;
+}
+.elmap-marker-icon {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 36.17px;
+  height: 35px;
+  overflow: hidden;
+}
+.cordoba-capital-bv,
+.humberto-primo-771 {
+  position: absolute;
+  top: 79px;
+  left: 47.54px;
+  font-weight: 300;
+  display: inline-block;
+  width: 232.54px;
+}
+.humberto-primo-771 {
+  top: 55px;
+  width: 178.8px;
+}
+.derecha-child {
+  position: absolute;
+  top: 34.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 156.03px;
+  height: 1px;
+}
+.direccion {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+  display: flex;
+  align-items: center;
+  width: 103.35px;
+}
+.derecha {
+  position: absolute;
+  top: 59px;
+  left: 1006px;
+  width: 314.19px;
+  height: 416px;
+}
+.div,
+.lunes {
+  position: absolute;
+  top: 0;
+  left: 51.66%;
+  font-weight: 300;
+}
+.lunes {
+  left: 0;
+}
+.horarios1,
+.horarios2,
+.horarios3 {
+  position: absolute;
+  top: 226px;
+  left: 0;
+  width: 218.07px;
+  height: 18px;
+}
+.horarios2,
+.horarios3 {
+  top: 189px;
+  height: 17px;
+}
+.horarios3 {
+  top: 151px;
+  height: 18px;
+}
+.horarios-lista,
+.horarios4,
+.horarios5,
+.horarios6,
+.horarios7 {
+  position: absolute;
+  top: 113px;
+  left: 0;
+  width: 218.07px;
+  height: 18px;
+}
+.horarios-lista,
+.horarios5,
+.horarios6,
+.horarios7 {
+  top: 75px;
+}
+.horarios-lista,
+.horarios6,
+.horarios7 {
+  top: 38px;
+  height: 17px;
+}
+.horarios-lista,
+.horarios7 {
+  top: 0;
+  height: 18px;
+}
+.horarios-lista {
+  top: 56px;
+  height: 244px;
+}
+.horarios8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+  display: flex;
+  align-items: center;
+  width: 96.12px;
+}
+.carbonphone-voice-icon,
+.horarios {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 218.07px;
+  height: 300px;
+}
+.carbonphone-voice-icon {
+  top: 54px;
+  width: 31.01px;
+  height: 30px;
+  overflow: hidden;
+}
+.telefono-child {
+  position: absolute;
+  top: 36.5px;
+  left: 2.6px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 156.03px;
+  height: 1px;
+}
+.div7 {
+  position: absolute;
+  top: 57px;
+  left: 52.71px;
+  font-weight: 300;
+  display: inline-block;
+  width: 158.13px;
+}
+.telefono1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+  display: flex;
+  align-items: center;
+  width: 94.05px;
+}
+.centro,
+.telefono {
+  position: absolute;
+  top: 332px;
+  left: 0;
+  width: 210.83px;
+  height: 84px;
+}
+.centro {
+  top: 59px;
+  left: 611px;
+  width: 218.07px;
+  height: 416px;
+}
+.redes-socilaes-icon {
+  position: absolute;
+  top: 364px;
+  left: 2px;
+  width: 366.89px;
+  height: 53px;
+}
+.div8 {
+  top: 297px;
+  left: 0;
+  font-weight: 300;
+  width: 107.48px;
+}
+.div8,
+.este-es-un,
+.resto {
+  position: absolute;
+  display: inline-block;
+}
+.este-es-un {
+  top: 164px;
+  left: 0.03px;
+  font-weight: 300;
+  width: 384.46px;
+}
+.resto {
+  top: 0;
+  left: 2.1px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-rancho);
+  color: var(--color-gray-100);
+  width: 167.43px;
+}
+.footer,
+.izquierdo {
+  position: absolute;
+  top: 59px;
+  left: 118px;
+  width: 384.5px;
+  height: 417px;
+}
+.footer {
+  top: 6416px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 616px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+}
+.pexels-ketut-subiyanto-4350114-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 735px;
+  object-fit: cover;
+}
+.boton-encargar-child,
+.formulario-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.formulario-child {
+  width: 86.17%;
+  right: 7.21%;
+  left: 6.61%;
+  border-radius: var(--br-8xs);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.boton-encargar-child {
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightseagreen);
+}
+.boton-encargar,
+.encargar {
+  position: absolute;
+  top: 20%;
+  left: 25.29%;
+}
+.boton-encargar {
+  top: 731px;
+  left: 255px;
+  border-radius: var(--br-3xs);
+  width: 170px;
+  height: 40px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-libre-franklin);
+}
+.instance-child {
+  position: absolute;
+  height: 100.21%;
+  width: 100.09%;
+  top: -0.1%;
+  right: -0.04%;
+  bottom: -0.1%;
+  left: -0.04%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 0.3px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.nombre {
+  position: absolute;
+  top: 8px;
+  left: 9px;
+  font-weight: 300;
+}
+.instance-item,
+.rectangle-parent {
+  position: absolute;
+  height: 18.07%;
+  width: 70.14%;
+  top: 69.79%;
+  right: 14.83%;
+  bottom: 12.14%;
+  left: 15.03%;
+}
+.instance-item {
+  height: 100.7%;
+  width: 100.09%;
+  top: -0.35%;
+  right: -0.04%;
+  bottom: -0.35%;
+  left: -0.04%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 0.3px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.input-child,
+.rectangle-group {
+  position: absolute;
+  height: 5.35%;
+  width: 70.14%;
+  top: 60.15%;
+  right: 14.83%;
+  bottom: 34.49%;
+  left: 15.03%;
+}
+.input-child {
+  height: 100.76%;
+  width: 100.19%;
+  top: -0.38%;
+  right: -0.09%;
+  bottom: -0.38%;
+  left: -0.09%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 0.3px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.input,
+.input1 {
+  position: absolute;
+  height: 100%;
+  width: 45.71%;
+  top: 0;
+  right: 54.29%;
+  bottom: 0;
+  left: 0;
+}
+.input1 {
+  right: 0;
+  left: 54.29%;
+  overflow: hidden;
+}
+.input-parent,
+.rectangle-container,
+.rectangle-div,
+.rectangle-parent1 {
+  position: absolute;
+  height: 4.95%;
+  width: 70.14%;
+  top: 50.92%;
+  right: 14.83%;
+  bottom: 44.13%;
+  left: 15.03%;
+}
+.rectangle-container,
+.rectangle-div,
+.rectangle-parent1 {
+  height: 5.35%;
+  top: 41.28%;
+  bottom: 53.37%;
+}
+.rectangle-div,
+.rectangle-parent1 {
+  top: 31.64%;
+  bottom: 63.01%;
+}
+.rectangle-parent1 {
+  top: 22%;
+  bottom: 72.65%;
+}
+.reservacion1 {
+  position: absolute;
+  height: 8.43%;
+  width: 46.49%;
+  top: 10.04%;
+  left: 26.85%;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-rancho);
+  color: var(--color-white);
+  display: inline-block;
+}
+.te-esperamos {
+  position: absolute;
+  height: 3.21%;
+  width: 30.06%;
+  top: 6.83%;
+  left: 36.07%;
+  color: var(--color-coral);
+  display: flex;
+  align-items: center;
+}
+.formulario,
+.reservacion {
+  position: absolute;
+  top: 87px;
+  left: 821px;
+  width: 499px;
+  height: 800px;
+}
+.reservacion {
+  top: 5476px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 940px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-josefin-sans);
+}
+.expertos,
+.nuestra-cocina {
+  position: absolute;
+  top: 66px;
+  left: 572px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-rancho);
+}
+.expertos {
+  top: 42px;
+  left: 671px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+}
+.pexels-miquel-ferran-gomez-fig-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 350px;
+  height: 600px;
+  object-fit: cover;
+}
+.desc-nosotros-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 270px;
+  height: 130px;
+}
+.redes-sociales-icon {
+  position: absolute;
+  top: 98.14px;
+  left: 76px;
+  width: 120px;
+  height: 20px;
+}
+.fabiano-caruana,
+.fundador {
+  position: absolute;
+  top: 9.23%;
+  left: 18.15%;
+  font-weight: 500;
+}
+.fundador {
+  top: 43.19%;
+  left: 33.7%;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+}
+.desc-nosotros {
+  position: absolute;
+  top: 449px;
+  left: 40px;
+  width: 270px;
+  height: 130px;
+}
+.pexels-miquel-ferran-gomez-fig-parent {
+  position: absolute;
+  top: 166px;
+  left: 970px;
+  width: 350px;
+  height: 600px;
+}
+.chef,
+.maria-olivos {
+  position: absolute;
+  top: 9.23%;
+  left: 26.3%;
+  font-weight: 500;
+}
+.chef {
+  width: 16.67%;
+  top: 43.19%;
+  left: 41.85%;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  display: inline-block;
+}
+.pexels-ketut-subiyanto-4353583-parent {
+  position: absolute;
+  top: 166px;
+  left: 545px;
+  width: 350px;
+  height: 600px;
+}
+.rodrigo-russo {
+  position: absolute;
+  width: 55.93%;
+  top: 9.23%;
+  left: 22.22%;
+  font-weight: 500;
+  display: inline-block;
+}
+.nosotros,
+.pexels-2102934-1-parent {
+  position: absolute;
+  top: 166px;
+  left: 120px;
+  width: 350px;
+  height: 600px;
+}
+.nosotros {
+  top: 4653px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 823px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray);
+}
+.pexels-ella-olsson-1640770-1-icon {
+  position: absolute;
+  top: 225px;
+  left: 120px;
+  width: 1200px;
+  height: 566px;
+  object-fit: cover;
+}
+.puntos-slider-icon {
+  position: absolute;
+  top: 696px;
+  left: 650px;
+  width: 140px;
+  height: 25px;
+}
+.este-es-un1,
+.matias-sosa {
+  position: absolute;
+  top: 613px;
+  left: 653px;
+}
+.este-es-un1 {
+  top: 422px;
+  left: 222px;
+  font-size: 36px;
+  font-weight: 300;
+  font-family: var(--font-libre-franklin);
+  display: inline-block;
+  width: 996px;
+}
+.faquote-left-icon {
+  position: absolute;
+  top: 295px;
+  left: 680px;
+  width: 80px;
+  height: 67.69px;
+  overflow: hidden;
+}
+.cosumidor-feliz {
+  position: absolute;
+  top: 127px;
+  left: 564px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-rancho);
+  color: var(--color-darkslategray);
+}
+.testimonio {
+  position: absolute;
+  top: 85px;
+  left: 663px;
+  color: var(--color-coral);
+}
+.comentarios {
+  position: absolute;
+  top: 3760px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 893px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-sans);
+}
+.pexels-chevanon-photography-30-icon {
+  position: absolute;
+  height: 100%;
+  width: 29.55%;
+  top: 0;
+  right: 70.45%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div9 {
+  position: absolute;
+  top: 24.24%;
+  left: 85.97%;
+  font-weight: 200;
+}
+.cafe-con-leche,
+.criollitos-mermelada {
+  position: absolute;
+  top: 57.58%;
+  left: 32.54%;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+}
+.cafe-con-leche {
+  top: 23.23%;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+}
+.cafecito {
+  position: absolute;
+  top: 565px;
+  left: 7px;
+  width: 335px;
+  height: 99px;
+}
+.cafecito1,
+.cafes-grandes-child {
+  position: absolute;
+  top: 497.11px;
+  left: -2.89px;
+  width: 355.77px;
+  height: 5.77px;
+}
+.cafecito1 {
+  top: 336px;
+  left: 7px;
+  width: 335px;
+  height: 99px;
+}
+.cafecito2,
+.cafes-grandes-item {
+  position: absolute;
+  top: 268.11px;
+  left: -2.89px;
+  width: 355.77px;
+  height: 5.77px;
+}
+.cafecito2 {
+  top: 107px;
+  left: 7px;
+  width: 335px;
+  height: 99px;
+}
+.merienda {
+  position: absolute;
+  top: 0;
+  left: 23.43%;
+  font-size: var(--font-size-23xl);
+  font-family: var(--font-josefin-sans);
+}
+.cafes-grandes,
+.cafes-grandes1,
+.cafes-grandes2 {
+  position: absolute;
+  top: 220px;
+  left: 963px;
+  width: 350px;
+  height: 664px;
+}
+.cafes-grandes1,
+.cafes-grandes2 {
+  left: 545px;
+}
+.cafes-grandes2 {
+  left: 127px;
+}
+.veganisimo {
+  top: 120px;
+  left: 659px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+}
+.menu,
+.menu1,
+.veganisimo {
+  position: absolute;
+}
+.menu1 {
+  top: 30px;
+  left: 664px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-rancho);
+}
+.menu {
+  top: 2736px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  color: var(--color-darkslategray);
+}
+.vegan-g07dc68689-1280-1-icon {
+  position: absolute;
+  top: -10px;
+  left: -15px;
+  width: 493px;
+  height: 725px;
+  object-fit: cover;
+}
+.boton-encargar1 {
+  position: absolute;
+  top: 376px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 170px;
+  height: 40px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.div18,
+.este-es-un2 {
+  position: absolute;
+  top: 322px;
+  left: 0;
+  font-weight: 300;
+}
+.este-es-un2 {
+  top: 209px;
+  font-size: var(--font-size-lg);
+  font-weight: 100;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 372px;
+}
+.especiales-child {
+  position: absolute;
+  top: 46.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 351px;
+  height: 1px;
+}
+.sopa-de-mani {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  font-size: var(--font-size-23xl);
+  font-family: var(--font-josefin-sans);
+  display: flex;
+  align-items: center;
+  width: 394px;
+}
+.especiales-item {
+  position: absolute;
+  top: 184.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 251px;
+  height: 1px;
+}
+.almuerzo1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+}
+.especial-2,
+.especiales {
+  position: absolute;
+  top: 140px;
+  left: 620px;
+  width: 394px;
+  height: 416px;
+}
+.especial-2 {
+  top: 961px;
+  left: 212px;
+  width: 1014px;
+  height: 695px;
+}
+.granola-gd58857f68-1280-1-icon {
+  position: absolute;
+  top: 129px;
+  left: 529px;
+  width: 493px;
+  height: 725px;
+  object-fit: cover;
+}
+.boton-encargar2 {
+  position: absolute;
+  top: 620px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 170px;
+  height: 40px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.div19,
+.este-es-un3 {
+  position: absolute;
+  top: 566px;
+  left: 0;
+  font-weight: 300;
+}
+.este-es-un3 {
+  top: 453px;
+  font-size: var(--font-size-lg);
+  font-weight: 100;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 372px;
+}
+.especial-1-child {
+  position: absolute;
+  top: 290.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 351px;
+  height: 1px;
+}
+.yogurt-griego-con {
+  position: absolute;
+  top: 320px;
+  left: 0;
+  font-size: var(--font-size-23xl);
+  font-family: var(--font-josefin-sans);
+  display: flex;
+  align-items: center;
+  width: 394px;
+}
+.especial-1-item {
+  position: absolute;
+  top: 428.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 251px;
+  height: 1px;
+}
+.de-la-casa,
+.postres {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  font-family: var(--font-josefin-sans);
+  color: var(--color-coral);
+}
+.de-la-casa {
+  top: 87px;
+  left: 440px;
+}
+.especialidades {
+  position: absolute;
+  top: 0;
+  left: 355px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-rancho);
+}
+.especial-1 {
+  position: absolute;
+  top: 40px;
+  left: 222px;
+  width: 1007px;
+  height: 834px;
+}
+.especialidades-de-la-casa {
+  position: absolute;
+  top: 989px;
+  left: 0;
+  background-color: #efefef;
+  width: 1440px;
+  height: 1747px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.korean-dish-gc0e898cb5-1280-1-icon {
+  position: absolute;
+  top: 152px;
+  left: 720px;
+  width: 600px;
+  height: 837px;
+  object-fit: cover;
+}
+.hero-child {
+  position: absolute;
+  top: 882px;
+  left: 1033px;
+  background-color: var(--color-white);
+  width: 287px;
+  height: 107px;
+}
+.hero-inner,
+.hero-item {
+  position: absolute;
+  top: 924.95px;
+  left: 1202px;
+  width: 77.53px;
+  height: 22.09px;
+}
+.hero-inner {
+  left: 1073.5px;
+}
+.comida-casera-saludable {
+  font-weight: 300;
+}
+.span {
+  color: var(--color-lightseagreen);
+}
+.span1 {
+  color: var(--color-black);
+}
+.comida-casera-saludable-container {
+  position: absolute;
+  top: 326px;
+  left: 120px;
+  font-size: 48px;
+  display: inline-block;
+  width: 443px;
+  font-family: var(--font-josefin-sans);
+}
+.botones-hero,
+.local-cerca {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.botones-hero {
+  top: 560px;
+  left: 392px;
+  width: 110px;
+  height: 24px;
+}
+.texto-iconos-child,
+.texto-iconos-item {
+  position: absolute;
+  height: 100.01%;
+  width: 0.48%;
+  top: 0;
+  right: 73.88%;
+  bottom: -0.01%;
+  left: 25.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.texto-iconos-item {
+  right: 30.56%;
+  left: 68.96%;
+}
+.fresco {
+  position: absolute;
+  top: 62.35%;
+  left: 0;
+}
+.rapido,
+.soporte,
+.texto-iconos {
+  position: absolute;
+  top: 62.35%;
+  left: 41.1%;
+}
+.soporte,
+.texto-iconos {
+  left: 83.3%;
+}
+.texto-iconos {
+  height: 71.43%;
+  width: 93.24%;
+  top: 27.73%;
+  right: 1.84%;
+  bottom: 0.84%;
+  left: 4.92%;
+}
+.bxleaf-icon,
+.bxrocket-icon,
+.bxsupport-icon {
+  position: absolute;
+  top: 21px;
+  width: 50px;
+  height: 50px;
+}
+.bxleaf-icon {
+  left: 30px;
+  overflow: hidden;
+}
+.bxrocket-icon,
+.bxsupport-icon {
+  left: 219px;
+}
+.bxsupport-icon {
+  left: 416px;
+}
+.iconos-hero {
+  top: 695px;
+  left: 120px;
+  width: 488px;
+  height: 119px;
+}
+.contacto,
+.hero,
+.iconos-hero {
+  position: absolute;
+}
+.hero {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 989px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.contacto {
+  top: 63px;
+  left: 120px;
+}
+.menu3,
+.nosotros1,
+.reservacion2 {
+  position: absolute;
+  top: 63px;
+  left: 1203px;
+  display: flex;
+  align-items: center;
+  width: 117px;
+}
+.menu3,
+.nosotros1 {
+  left: 967px;
+  width: 65px;
+}
+.nosotros1 {
+  left: 359px;
+  width: 105px;
+}
+.resto1 {
+  position: absolute;
+  top: 16px;
+  left: 634px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-rancho);
+  display: inline-block;
+  width: 162px;
+}
+.boton-hero-child,
+.menu2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.menu2 {
+  width: 1440px;
+  height: 150px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.boton-hero-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-coral);
+}
+.boton-hero,
+.ver-menu {
+  position: absolute;
+  top: 26%;
+  left: 23.03%;
+}
+.boton-hero {
+  top: 548px;
+  left: 131px;
+  border-radius: var(--br-3xs);
+  box-shadow: 5px 5px 15px #f4a261;
+  width: 165px;
+  height: 50px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7032px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-libre-franklin);
+}
+a{text-decoration: none;
+  color: inherit; }
+  
